@@ -3,7 +3,10 @@ sphinx-markdown
 
 Sphinx用 MarkdownからreStructuredTextに変換する拡張
 
-[mctenshi/sphinx-markdown-sample](https://github.com/mctenshi/sphinx-markdown-sample)を元に作成
+以下を元に作成
+
+* [sphinxcontrib_markdown](https://gist.github.com/tk0miya/4336929)
+* [mctenshi/sphinx-markdown-sample](https://github.com/mctenshi/sphinx-markdown-sample)
 
 
 必要なもの
